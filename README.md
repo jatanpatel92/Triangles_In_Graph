@@ -20,5 +20,14 @@ python triangles.py Adjacency_Matrix1.csv
 - Output:
 
 ```
-
+Number of vertices = 100
+===========================
+Applying Brute Force Method
+===========================
+Number of triangles = 101661
+Total number of computations (complexity) = 144017
+===============================================
+Applying Matrix Multiplication and Trace Method
+===============================================
+Number of triangles = 101661
 ```
