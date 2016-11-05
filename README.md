@@ -30,4 +30,5 @@ Total number of computations (complexity) = 144017
 Applying Matrix Multiplication and Trace Method
 ===============================================
 Number of triangles = 101661
+Total number of computations (complexity) = 2000100
 ```
