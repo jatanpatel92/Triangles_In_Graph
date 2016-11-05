@@ -14,21 +14,21 @@ python triangles.py <file_path>
 - Example:
 
 ```
-python triangles.py Adjacency_Matrix1.csv
+python triangles.py sample.csv
 ```
 
 - Output:
 
 ```
-Number of vertices = 100
+Number of vertices = 3
 ===========================
 Applying Brute Force Method
 ===========================
-Number of triangles = 101661
-Total number of computations (complexity) = 144017
+Number of triangles = 1
+Total number of computations (complexity) = 7
 ===============================================
 Applying Matrix Multiplication and Trace Method
 ===============================================
-Number of triangles = 101661
-Total number of computations (complexity) = 2000100
+Number of triangles = 1
+Total number of computations (complexity) = 57
 ```
