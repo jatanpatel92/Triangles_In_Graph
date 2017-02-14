@@ -1,6 +1,6 @@
 # Number of Triangles in a graph
 
-- Developed by: Jatan Patel
+- Current Issue: Map Reduce is incomplete
 
 - Requirements:
 Python 2.7
